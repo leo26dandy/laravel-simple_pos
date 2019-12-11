@@ -76,4 +76,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 # laravel-simple_pos
+web-based app that can store and list the inventory items, store customer(s) info, and create invoice for each transaction.
